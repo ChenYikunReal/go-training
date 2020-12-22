@@ -1,19 +1,19 @@
 # GoLang入门训练
 
-![在这里插入图片描述](https://github.com/ChenYikunReal/go_training/blob/master/images/go-background1.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80Mzg5NjMxOA==,size_16,color_FFFFFF,t_70)
+![](images/go-background1.png)
 
 
-![在这里插入图片描述](https://github.com/ChenYikunReal/go_training/blob/master/images/go-background2.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80Mzg5NjMxOA==,size_16,color_FFFFFF,t_70)
+![](images/go-background2.png)
 
 
-![在这里插入图片描述](https://github.com/ChenYikunReal/go_training/blob/master/images/go-background3.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80Mzg5NjMxOA==,size_16,color_FFFFFF,t_70)
+![](images/go-background3.jpg)
 
 ## GoLang及GoLand的下载安装
 - [GoLang下载](https://golang.google.cn/dl/)
 - [GoLand下载](https://www.jetbrains.com/go/)
 
 
-![在这里插入图片描述](https://github.com/ChenYikunReal/go_training/blob/master/images/go-goland.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80Mzg5NjMxOA==,size_16,color_FFFFFF,t_70)
+![](images/go-goland.png)
 
 ## GOPATH
 - [GOPATH](https://www.jianshu.com/p/cf298a0db3fa)
